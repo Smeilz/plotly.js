@@ -5,6 +5,8 @@ build/*
 !build/ploticon.js
 !build/README.md
 
+!build/plotly.js-locales/
+
 npm-debug.log*
 *.sublime*
 
